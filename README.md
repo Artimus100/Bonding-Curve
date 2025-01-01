@@ -23,4 +23,3 @@ Immediate Liquidity: Tokens can be bought or sold instantaneously at any time.
 
 Bonding curves offer a mathematical approach to defining the relationship between token supply and price, enabling efficient and transparent market operations. They are a powerful tool in the DeFi ecosystem, facilitating decentralized trading and token issuance.
 
-Does this help clarify what a bonding curve is and how it works?
